@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The 4 Elements</string>
+    <string name="button_air_description">AirButton</string>
+    <string name="button_earth_description">EarthButton</string>
+    <string name="button_fire_description">FireButton</string>
+    <string name="button_water_description">WaterButton</string>
+    <string name="animationView_description">AnimationView</string>
+    <string name="reset_button">reset_button</string>
+</resources>
